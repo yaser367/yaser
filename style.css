@@ -1,0 +1,12 @@
+body{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}.about-section{
+    padding-top: 8em;
+}.text-area{
+    color: black;
+}.card-img-top{
+    height: 17em;
+}.copyright{
+    font-weight: 100;
+    font-size: small;
+}
